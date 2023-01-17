@@ -4,7 +4,7 @@
 # Integer
 # Boolean
 # dictionary
-# list
+# list my list
 # floating-point arithemetic
 # Tuple
 # complex number
